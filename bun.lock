@@ -5,6 +5,7 @@
     "": {
       "name": "file-tools",
       "dependencies": {
+        "@img/sharp-linux-x64": "^0.35.2",
         "archiver": "^8.0.0",
         "canvas": "^3.2.3",
         "jszip": "^3.10.1",
