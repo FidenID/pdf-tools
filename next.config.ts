@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  serverExternalPackages: ["sharp", "canvas", "@img/sharp-linux-x64"],
+  serverExternalPackages: ["sharp", "canvas", "pdfjs-dist", "@img/sharp-linux-x64"],
   experimental: {
     serverActions: {
       bodySizeLimit: "50mb",
