@@ -12,5 +12,8 @@ output*.log
 
 index.ts
 
+next-env.d.ts
+tsconfig.tsbuildinfo
+
 .DS_Store
 Thumbs.db
